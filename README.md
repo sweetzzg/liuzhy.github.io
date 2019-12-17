@@ -1,6 +1,6 @@
 # Welcome to my personal website
 
-### Here are my work about software development skills
+### Here are my project about software development skills
 
 This repository gives you the code you'll need to kickstart a personal website that showcases your work as a software developer. And when you manage the code in a GitHub repository, it will automatically render a webpage with the owner's profile information, including a photo, bio, and repositories.
 
@@ -119,21 +119,13 @@ Your website supports linking and sharing to social media services you're using,
 
 ```
 social_media:
-  behance: your_username
-  dribbble: your_username  
-  facebook: your_username
-  hackerrank: your_username
-  instagram: your_username
-  keybase: your_username
-  linkedin: your_username
-  medium: your_username
-  stackoverflow: your_user_id
-  telegram: your_username
-  twitter: your_username
-  unsplash: your_username
-  vk: your_username
-  website: http://your_website_url
-  youtube: your_username
+  behance: liuzhy97
+  dribbble: liuzhy97 
+  facebook: liuzhy97
+  instagram:liuzhy97
+  keybase: datasci
+  linkedin: liuzhy97
+  website: https://github.com/sweetzzg/liuzhy.io
 ```
 
 Links to your profile for each of the services you define will appear in the `<header>` of your website, appended to your bio. And if those services support sharing, any blog posts that you publish will include links to share that post using each social media service.
